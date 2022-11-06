@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WorkoutLog</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="email_required">Email is required</string>
+    <string name="password_required">Password is required</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="lastname">LastName</string>
+    <string name="firstname">FirstName</string>
+    <string name="plan">Plan</string>
+    <string name="track">Track</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="plan_fragment">Plan Fragment</string>
+    <string name="track_fragment">Track Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="phone_number">Phone number</string>
+    <string name="welcome_to_workout_log">Welcome to Workout Log</string>
+    <string name="logout">Logout</string>
+    <string name="my_profile">My Profile</string>
+</resources>
